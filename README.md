@@ -26,24 +26,22 @@
 - [Kryptlow Frontend Code](https://github.com/bfrisbyh92/Krypto-web3.0)
 - [Kryptlow Smart Contracts Code](https://github.com/bfrisbyh92/Web3.0-App)
 - [CryptoHome](https://homecrypto.netlify.app/)
+- [Signal-Clone](https://signal3-45484.web.app/)
+- [Uber-Clone](https://expo.dev/@bfrisbyh92/uber-clone)
+- [Crypto Home](https://homecrypto.netlify.app/)
 
 
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 Here are some Corgis to brighten this README up 🤪🤪
-
-![corgi1](https://user-images.githubusercontent.com/65681974/179368059-bdb8fe81-8104-49da-a4d6-1f8ad59710ef.png)
-![corgi2](https://user-images.githubusercontent.com/65681974/179368161-8c9be285-25c2-4933-a781-c6b38a8da5e5.png)
-![corgi3](https://user-images.githubusercontent.com/65681974/179368185-52564340-4369-4f71-a16e-862ecbbd279b.png)
-![image](https://user-images.githubusercontent.com/65681974/179368196-41c66f38-0f35-4640-8a8c-7ffc009fd8ee.png)
-![image](https://user-images.githubusercontent.com/65681974/179368207-c1a499e1-b29f-4c32-a18a-34cd3241fdac.png)
-![image](https://user-images.githubusercontent.com/65681974/179368226-fcb78906-9a77-4ff9-8a43-0d5ebd7a3544.png)
-
-   
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+ 
+ <div>
+ <img src="https://user-images.githubusercontent.com/65681974/179368059-bdb8fe81-8104-49da-a4d6-1f8ad59710ef.png" width="100" height="100" /> 
+  <img src="https://user-images.githubusercontent.com/65681974/179368161-8c9be285-25c2-4933-a781-c6b38a8da5e5.png" width="100" height="100" /> 
+  <img src="https://user-images.githubusercontent.com/65681974/179368185-52564340-4369-4f71-a16e-862ecbbd279b.png" width="100" height="100" /> 
+  <img src="https://user-images.githubusercontent.com/65681974/179368059-bdb8fe81-8104-49da-a4d6-1f8ad59710ef.png" width="100" height="100" /> 
+  <img src="https://user-images.githubusercontent.com/65681974/179368196-41c66f38-0f35-4640-8a8c-7ffc009fd8ee.png" width="100" height="100" /> 
+  <img src="https://user-images.githubusercontent.com/65681974/179368226-fcb78906-9a77-4ff9-8a43-0d5ebd7a3544.png" width="100" height="100" /> 
 </div>
+   
