@@ -9,7 +9,7 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=bfrisbyh92&color=red&style=flat)](https://komarev.com/ghpvc/?username=bfrisbyh92)
 
-:wave: Hello! I'm Brendan[@bfrisbyh92](https://github.com/bfrisbyh92) and love building software, automating simple tasks, hosting projects and learning new things. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow all of best practices. I'm big supporter of maintaining a growth mindset. The one thing I'm certain of is everyday I get a small amount better at coding as long as I sit down and put the work in.
+:wave: Hello! I'm Brendan[@bfrisbyh92](https://github.com/bfrisbyh92) and love building software, automating simple tasks, hosting projects and learning new things. Take a look at my [Portfolio](https://brendanfrisby.netlify.app/). From responsive design to backend development, I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow all of best practices. I'm big supporter of maintaining a growth mindset. The one thing I'm certain of is everyday I get a small amount better at coding as long as I sit down and put the work in.
 
 <div align="center">
     <details>
@@ -21,19 +21,26 @@
 </div>
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
- 🚀 **Projects** |
-[Kryptlow Link](https://kryptlow.netlify.app/)
-[Kryptlow Frontend Code](https://github.com/bfrisbyh92/Krypto-web3.0)
-[Kryptlow Smart Contracts Code](https://github.com/bfrisbyh92/Web3.0-App)
+ 🚀 **Projects** 
+- [Kryptlow Link](https://kryptlow.netlify.app/)
+- [Kryptlow Frontend Code](https://github.com/bfrisbyh92/Krypto-web3.0)
+- [Kryptlow Smart Contracts Code](https://github.com/bfrisbyh92/Web3.0-App)
+- [CryptoHome](https://homecrypto.netlify.app/)
+
 
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Here are some Corgis to brighten this README up 🤪🤪
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+![corgi1](https://user-images.githubusercontent.com/65681974/179368059-bdb8fe81-8104-49da-a4d6-1f8ad59710ef.png)
+![corgi2](https://user-images.githubusercontent.com/65681974/179368161-8c9be285-25c2-4933-a781-c6b38a8da5e5.png)
+![corgi3](https://user-images.githubusercontent.com/65681974/179368185-52564340-4369-4f71-a16e-862ecbbd279b.png)
+![image](https://user-images.githubusercontent.com/65681974/179368196-41c66f38-0f35-4640-8a8c-7ffc009fd8ee.png)
+![image](https://user-images.githubusercontent.com/65681974/179368207-c1a499e1-b29f-4c32-a18a-34cd3241fdac.png)
+![image](https://user-images.githubusercontent.com/65681974/179368226-fcb78906-9a77-4ff9-8a43-0d5ebd7a3544.png)
+
+   
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
