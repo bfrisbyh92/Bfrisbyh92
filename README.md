@@ -9,7 +9,9 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=bfrisbyh92&color=red&style=flat)](https://komarev.com/ghpvc/?username=bfrisbyh92)
 
-:wave: Hello! I'm Brendan[@bfrisbyh92](https://github.com/bfrisbyh92) and love building software, automating simple tasks, hosting projects and learning new things. Take a look at my [Portfolio](https://brendanfrisby.netlify.app/). From responsive design to backend development, I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow all of best practices. I'm big supporter of maintaining a growth mindset. The one thing I'm certain of is everyday I get a small amount better at coding as long as I sit down and put the work in.
+:wave: Hello! I'm Brendan[@bfrisbyh92](https://github.com/bfrisbyh92) and love building software, automating simple tasks, hosting projects and learning new things. Take a look at my [Portfolio](https://brendanfrisby.netlify.app/). From responsive design to backend development, I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow all of best practices. I'm big supporter of maintaining a growth mindset. The one thing I'm certain of is everyday I get a small amount better at coding.
+
+![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfrisbyh92&show_icons=true&theme=radical)
 
 <div align="center">
     <details>
