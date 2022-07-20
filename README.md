@@ -25,10 +25,9 @@
 - [Kryptlow Link](https://kryptlow.netlify.app/)
 - [Kryptlow Frontend Code](https://github.com/bfrisbyh92/Krypto-web3.0)
 - [Kryptlow Smart Contracts Code](https://github.com/bfrisbyh92/Web3.0-App)
-- [CryptoHome](https://homecrypto.netlify.app/)
+- [CoinHub](https://coinhub7.netlify.app/)
 - [Signal-Clone](https://signal3-45484.web.app/)
 - [Uber-Clone](https://expo.dev/@bfrisbyh92/uber-clone)
-- [Crypto Home](https://homecrypto.netlify.app/)
 
 
 
