@@ -16,8 +16,8 @@
 <div align="center">
     👇🏻
         
-<img src="https://metrics.lecoq.io/bfrisbyh92?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=bfrisbyh92&config.timezone=America%2FKolkata">
-    </details>
+![Metrics](https://metrics.lecoq.io/bfrisbyh92?template=classic&base.community=0&isocalendar=1&languages=1&activity=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
+
 </div>
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
