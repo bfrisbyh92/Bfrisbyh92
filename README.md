@@ -11,12 +11,10 @@
 
 :wave: Hello! I'm Brendan[@bfrisbyh92](https://github.com/bfrisbyh92) and love building software, automating simple tasks, hosting projects and learning new things. Take a look at my [Portfolio](https://brendanfrisby.netlify.app/). From responsive design to backend development, I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow all of best practices. I'm big supporter of maintaining a growth mindset. The one thing I'm certain of is everyday I get a small amount better at coding.
 
-![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfrisbyh92&show_icons=true&theme=radical)
+
 
 <div align="center">
-    <details>
-        <summary><b>👇🏻</b></summary>
-    <br>
+    👇🏻
         
 <img src="https://metrics.lecoq.io/bfrisbyh92?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=bfrisbyh92&config.timezone=America%2FKolkata">
     </details>
