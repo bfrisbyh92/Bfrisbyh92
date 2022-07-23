@@ -1,5 +1,8 @@
-<!-- # 👨🏻‍💻 [Anurag Singh](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
- -->
+<h1 align="center">
+<a href="https://brendanfrisby.netlify.app">
+Brendan Frisby
+</a>
+</h1>
  
 
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/bfrisbyh92/?tab=follow)
