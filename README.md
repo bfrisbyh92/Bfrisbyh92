@@ -1,4 +1,6 @@
 <h1 align="center">
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="funny GIF" width="200px">
+</br>
 <a href="https://brendanfrisby.netlify.app">
 Brendan Frisby
 </a>
