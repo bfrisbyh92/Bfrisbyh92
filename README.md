@@ -36,6 +36,9 @@ Brendan Frisby
 - [Uber-Clone](https://expo.dev/@bfrisbyh92/uber-clone)
 
 
+<img src="https://wakatime.com/share/@6ae01bc2-dc0f-4962-940e-3692dc2bcc23/a581e764-9b33-4f6d-816c-ef25d7e9917e.svg"></img>
+
+
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
